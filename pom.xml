@@ -11,6 +11,7 @@
     <modules>
         <module>jy-spring</module>
         <module>jy-mybatis</module>
+        <module>jy-jdk</module>
     </modules>
     <properties>
         <spring.version>5.2.2.RELEASE</spring.version>
